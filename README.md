@@ -1,1 +1,1 @@
-# exploracao-e-analise-de-dados-de-credito-com-sql
+# Exploração e análise de dados de crédito com SQL
